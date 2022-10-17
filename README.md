@@ -6,7 +6,7 @@ Get collective list of free APIs for use in software and web development.
 <a href="https://lbesson.mit-license.org"><img src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
 <a href="https://github.com/Amishakumari544/Linkvilla"><img src="https://img.shields.io/github/stars/Amishakumari544/Linkvilla.svg?style=social&label=Star"></a>
 
-<img src="https://user-images.githubusercontent.com/47467468/131894302-d0a29bd8-5a3c-43f8-a072-b0486f056a9c.png"/>
+![image](https://user-images.githubusercontent.com/49230384/196224985-b9f7bd29-0e88-4ee4-a49f-03427aa4eec3.png)
 
 ## 👨‍💻 Built with
 
